@@ -25,5 +25,7 @@ input()
 send("Hello Server")
 input()
 send("Player moved")
+input()
+send("Test World")
 
 send(DISCONNECT_MESSAGE)
